@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xenko.CodeOnlySample.Window
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xenko.CodeOnlySample", "Xenko.CodeOnlySample\Xenko.CodeOnlySample.csproj", "{1910EFDA-A5E3-4BF1-BC53-2C85E637E4C3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xenko.CodeOnlySample.NetCore", "Xenko.CodeOnlySample.NetCore\Xenko.CodeOnlySample.NetCore.csproj", "{D5917F93-806A-448A-B95A-2C918855F104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1910EFDA-A5E3-4BF1-BC53-2C85E637E4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1910EFDA-A5E3-4BF1-BC53-2C85E637E4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1910EFDA-A5E3-4BF1-BC53-2C85E637E4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5917F93-806A-448A-B95A-2C918855F104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5917F93-806A-448A-B95A-2C918855F104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5917F93-806A-448A-B95A-2C918855F104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5917F93-806A-448A-B95A-2C918855F104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

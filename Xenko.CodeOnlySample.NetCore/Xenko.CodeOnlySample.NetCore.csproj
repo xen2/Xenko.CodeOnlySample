@@ -17,7 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Xenko.CodeOnlySample\Xenko.CodeOnlySample.csproj" />
     <!-- Needed for custom runtime.json -->
-    <PackageReference Include="Xenko" Version="3.1.0.1-beta01-0349" PrivateAssets="contentfiles;analyzers" />
+    <PackageReference Include="Xenko" Version="3.1.0.1-beta01-0396" PrivateAssets="contentfiles;analyzers" />
   </ItemGroup>
 
 </Project>
